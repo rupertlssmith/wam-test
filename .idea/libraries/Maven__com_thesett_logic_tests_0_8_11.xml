@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.thesett:logic:tests:0.8.11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thesett/logic/0.8.11/logic-0.8.11-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thesett/logic/0.8.11/logic-0.8.11-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/thesett/logic/0.8.11/logic-0.8.11-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
